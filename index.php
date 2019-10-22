@@ -15,7 +15,6 @@ background-color : #ffc;
 <body>
 
 
-
 	<div class="container">
 		<div class="row">
 			
